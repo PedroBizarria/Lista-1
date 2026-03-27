@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\PrjExemplo\PrjExemplo\bin\Debug\PrjExemplo.exe.config
+C:\Users\aluno\source\repos\PrjExemplo\PrjExemplo\bin\Debug\PrjExemplo.exe
+C:\Users\aluno\source\repos\PrjExemplo\PrjExemplo\bin\Debug\PrjExemplo.pdb
+C:\Users\aluno\source\repos\PrjExemplo\PrjExemplo\obj\Debug\PrjExemplo.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\PrjExemplo\PrjExemplo\obj\Debug\PrjExemplo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\PrjExemplo\PrjExemplo\obj\Debug\PrjExemplo.exe
+C:\Users\aluno\source\repos\PrjExemplo\PrjExemplo\obj\Debug\PrjExemplo.pdb
+C:\Users\aluno\source\repos\PrjExemplo\PrjExemplo\obj\Debug\PrjExemplo.exe.config
