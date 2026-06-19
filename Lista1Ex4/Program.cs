@@ -19,7 +19,7 @@ namespace Lista1Ex4
             Console.WriteLine("Digite o valor da altura do triângulo: ");
             a = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("A área do triângulo é {0}", (b * a) / 2);
+            Console.WriteLine("A área do triângulo é: ", (b * a) / 2);
         }
     }
 }
